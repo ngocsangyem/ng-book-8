@@ -38,7 +38,7 @@
     "@angular/compiler-cli": "8.0.0",
     "@types/jasmine": "2.5.38",
     "@types/node": "10.9.4",
-    "bootstrap-sass": "3.3.7",
+    "bootstrap-sass": "3.4.1",
     "codelyzer": "^5.0.1",
     "jasmine-core": "~2.5.2",
     "jasmine-spec-reporter": "~3.2.0",
